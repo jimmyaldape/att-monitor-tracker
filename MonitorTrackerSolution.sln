@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorTracker", "MonitorTracker\MonitorTracker.csproj", "{7D4BFBDC-210A-4E47-A502-6855506DEEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorConsole", "MonitorConsole\MonitorConsole.csproj", "{37C60291-A907-48C2-91AE-FEE184007E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D4BFBDC-210A-4E47-A502-6855506DEEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4BFBDC-210A-4E47-A502-6855506DEEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4BFBDC-210A-4E47-A502-6855506DEEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4BFBDC-210A-4E47-A502-6855506DEEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C60291-A907-48C2-91AE-FEE184007E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C60291-A907-48C2-91AE-FEE184007E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C60291-A907-48C2-91AE-FEE184007E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C60291-A907-48C2-91AE-FEE184007E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
